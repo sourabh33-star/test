@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F072C8T6
+D STMICROELECTRONICS - STM32F072C8T6 - MCU, ARM CORTEX-M0, 48MHZ, LQFP-48
+K
+F https://componentsearchengine.com/Datasheets/2/STM32F072C8T6.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,28 @@
+PCBNEW-LibModule-V1  2022-06-30 05:29:50
+# encoding utf-8
+Units mm
+$INDEX
+5002
+$EndINDEX
+$MODULE 5002
+Po 0 0 0 15 62bd26be 00000000 ~~
+Li 5002
+Cd 5002
+Kw Undefined or Miscellaneous
+Sc 0
+At STD
+AR 
+Op 0 0 0
+T0 0.151 -0.202 1.27 1.27 0 0.254 N V 21 N "U**"
+T1 0.151 -0.202 1.27 1.27 0 0.254 N I 21 N "5002"
+DC 0 0 1.27 0 0.254 21
+DC 0 0 1.27 0 0.254 24
+$PAD
+Po 0 0
+Sh "1" C 1.6 1.6 0 0 900
+Dr 1.02 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$EndMODULE 5002
+$EndLIBRARY

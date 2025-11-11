@@ -1,0 +1,15 @@
+
+
+#ifndef INC_WATCHDOG_H_
+#define INC_WATCHDOG_H_
+
+#define IWDG_KEY_ENABLE 0x0000CCCC
+#define IWDG_WRACCESS_ENABLE 0x00005555
+#define IWDG_PRESCALER 0x06
+#define IWDG_RLR_VALUE 0x00000C34
+#define IWDG_REFRESH_ENABLE 0x0000AAAA
+#define RCC_CSR_IWDGRST (1U<<29)
+
+void iwdg_init();
+
+#endif /* INC_WATCHDOG_H_ */

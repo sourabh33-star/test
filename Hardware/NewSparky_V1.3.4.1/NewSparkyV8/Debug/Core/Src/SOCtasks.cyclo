@@ -1,0 +1,8 @@
+../Core/Src/SOCtasks.c:72:7:init_soc	2
+../Core/Src/SOCtasks.c:88:7:Compute_Cell_Average	2
+../Core/Src/SOCtasks.c:100:7:estimate_ocv	1
+../Core/Src/SOCtasks.c:107:7:estimate_exp_term	1
+../Core/Src/SOCtasks.c:113:6:init_filter_parameters	1
+../Core/Src/SOCtasks.c:130:7:compute_soc	3
+../Core/Src/SOCtasks.c:190:6:chg_dsg_done	1
+../Core/Src/SOCtasks.c:195:7:compute_soc_cc	5
